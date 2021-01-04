@@ -9,13 +9,12 @@ export interface VarietyData {
   //* any keys the object might need in the future should be added here.
 }
 
-
 /**
  * inital data values.
- * The intention is that this data object grows over time. 
+ * The intention is that this data object grows over time.
  */
 
-let data: VarietyData[] = [
+export const data: VarietyData[] = [
   { id: "barbera", displayName: "Barbera" },
   { id: "cabernetfranc", displayName: "Cabernet Franc" },
   { id: "cabernetsauvignon", displayName: "Cabernet Sauvignon" },
