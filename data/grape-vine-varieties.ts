@@ -1,6 +1,5 @@
 /**
- * Grape Variety Data - intended to be used as part of a service [angular]
- *
+ * Grape Variety Data - partial list for instructional implementation.
  */
 
 export interface VarietyData {
@@ -9,31 +8,7 @@ export interface VarietyData {
   //* any keys the object might need in the future should be added here.
 }
 
-/**
- * inital data values.
- * The intention is that this data object grows over time.
- */
-
 export const data: VarietyData[] = [
-  { id: "abouriou", displayName: "Abouriou" },
-  { id: "aglianico", displayName: "Aglianico" },
-  { id: "albarino ", displayName: "Albarino (Alvarinho)" },
-  { id: "albillo", displayName: "Albillo" },
-  { id: "aleatico", displayName: "Aléatico" },
-  { id: "alfrocheiro", displayName: "Alfrocheiro" },
-  { id: "alicantebouschet", displayName: "Alicante Bouschet" },
-  { id: "aligote", displayName: "Aligoté" },
-  { id: "alphonselavallee", displayName: "Alphonse Lavallée" },
-  { id: "alvarelhao", displayName: "Alvarelhao" },
-  { id: "ancellotta", displayName: "Ancellotta" },
-  { id: "ansonica", displayName: "Ansonica (Inzolia)" },
-  { id: "aranel", displayName: "Aranel" },
-  { id: "arinto", displayName: "Arinto" },
-  { id: "arneis", displayName: "Arneis" },  
-  { id: "assyrtiko", displayName: "Assyrtiko" },
-  { id: "azal", displayName: "Azal" },
-  { id: "aubun", displayName: "Aubun" },
-  { id: "auxerrois", displayName: "Auxerrois (Aucerot)" },
   { id: "barbera", displayName: "Barbera" },
   { id: "cabernetfranc", displayName: "Cabernet Franc" },
   { id: "cabernetsauvignon", displayName: "Cabernet Sauvignon" },
