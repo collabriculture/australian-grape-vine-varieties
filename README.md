@@ -1,6 +1,6 @@
-# Australian Grape Vine Varieties
+# Australian Grapevine Varieties
 
-Grape Vine Varieties as curated by Wine Australia https://www.wineaustralia.com/getmedia/5c28183c-9340-4e31-9924-42d97cdc1fae/Australian-OIV-List-012017.pdf
+Grapevine Varieties as curated by Wine Australia https://www.wineaustralia.com/getmedia/5c28183c-9340-4e31-9924-42d97cdc1fae/Australian-OIV-List-012017.pdf
 
 Full list of data with Prime Name and Synonyms as in the pdf above listed in this file: https://github.com/collabriculture/australian-grape-vine-varieties/blob/main/data/full-list-wine-australia
 
